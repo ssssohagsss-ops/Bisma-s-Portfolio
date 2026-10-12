@@ -1,0 +1,10 @@
+h1{
+    font-family: "Jersey 10 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:red;
+}
+.container{
+display: flex;
+flex-wrap: wrap;
+}
